@@ -7,4 +7,4 @@ This repository includes a [rules](swiftrules.md) file in markdown format for [S
 
 These guidelines help you maintain clean, scalable, and maintainable code by leveraging the latest SwiftUI features while building your projects with the [VIPER architecture](https://medium.com/@pinarkocak/understanding-viper-pattern-619fa9a0b1f1). 
 
-[This video](https://www.youtube.com/watch?v=s7BVmsZSmWQ) demonstrates how to set up Sweetpad and InjectionIII, and it also links to [Swift Cursor Rules](https://www.rayfernando.ai/swift-cursor-rules) by Ray Fernando & Lou Zell which greatly inspired these rules.
+[This video](https://www.youtube.com/watch?v=s7BVmsZSmWQ) demonstrates how to set up Sweetpad and InjectionIII, and it also links to [Swift Cursor Rules](https://www.rayfernando.ai/swift-cursor-rules) by Ray Fernando & Lou Zell which heavily influenced these guidelines and includes some verbatim text.
