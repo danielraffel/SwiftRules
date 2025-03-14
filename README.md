@@ -1,4 +1,4 @@
-# Swift Development Rules in Markdown Format
+# Swift Rules for Cursor in Markdown Format
 
 This repository includes a [rules](swiftrules.md) file in markdown format for [Swift](https://www.swift.org) iOS app development. It supports the following extensions in Cursor, VSCode, and other editors:
 
